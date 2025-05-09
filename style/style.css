@@ -12,7 +12,7 @@ body {
 }
 
 .mainbody{
-    margin: 40px;
+    margin: 0px;
 }
 
 .header {
@@ -239,7 +239,7 @@ body {
     gap: 1rem;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 98.1%;
     left: 0;
 }
 
